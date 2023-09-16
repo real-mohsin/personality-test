@@ -1,0 +1,27 @@
+.question-number {
+    font-size: 24px;
+    font-weight: 700;
+    color: #7c89f1;
+    margin-bottom: 48px;
+}
+
+.question {
+    font-size: 20px;
+    margin-bottom: 48px;
+}
+
+.options {
+    max-width: 800px;
+    margin: 0 auto;
+
+    .question-options {
+        width: 100%;
+        border: 1px solid #ccc;
+        background-color: transparent;
+        border-radius: 8px;
+        padding: 16px 24px;
+        margin-bottom: 16px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+}
