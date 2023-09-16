@@ -1,0 +1,26 @@
+.landing-head {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.test-card {
+    border-radius: 24px;
+    background-color: #f4276c;
+    color: #fff;
+    padding: 24px;
+    max-width: 200px;
+    margin: 0 auto;
+
+    .icon {
+        max-width: 50px;
+        margin: 0 auto 16px auto;
+    }
+    .title {
+        font-weight: 500;
+    }
+}
